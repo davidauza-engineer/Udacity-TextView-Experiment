@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="main_text">This is an awesome experiment!</string>
 </resources>

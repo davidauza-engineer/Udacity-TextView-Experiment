@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         TextView textView = new TextView(this);
-        textView.setText("This is an awesome experiment!");
+        textView.setText(getString(R.string.main_text));
         textView.setTextColor(Color.GREEN);
         textView.setTextSize(45f);
 
